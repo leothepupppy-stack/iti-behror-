@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iti-behror.vercel.app/sitemap.xml

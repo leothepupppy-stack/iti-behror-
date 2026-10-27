@@ -1,0 +1,19 @@
+{
+  "name": "Government ITI Behror",
+  "short_name": "ITI Behror",
+  "description": "Official information website for Government ITI Behror, Dhindor, Rajasthan, India.",
+  "lang": "en-IN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#102C4E",
+  "theme_color": "#102C4E",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
