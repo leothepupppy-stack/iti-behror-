@@ -1,23 +1,29 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://iti-behror.vercel.app/</loc>
-  </url>
-  <url>
-    <loc>https://iti-behror.vercel.app/about</loc>
-  </url>
-  <url>
-    <loc>https://iti-behror.vercel.app/trades</loc>
-  </url>
-  <url>
-    <loc>https://iti-behror.vercel.app/notices</loc>
-  </url>
-  <url>
-    <loc>https://iti-behror.vercel.app/gallery</loc>
-  </url>
-  <url>
-    <loc>https://iti-behror.vercel.app/contact</loc>
-  </url>
-</urlset>
 
+  <url>
+    <loc>https://itibehror.vercel.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://itibehror.vercel.app/about</loc>
+  </url>
+
+  <url>
+    <loc>https://itibehror.vercel.app/trades</loc>
+  </url>
+
+  <url>
+    <loc>https://itibehror.vercel.app/notices</loc>
+  </url>
+
+  <url>
+    <loc>https://itibehror.vercel.app/gallery</loc>
+  </url>
+
+  <url>
+    <loc>https://itibehror.vercel.app/contact</loc>
+  </url>
+
+</urlset>
